@@ -13,5 +13,5 @@ Each target system folder contains:
 * a file `runtime.csv` containing the recorded runtime to extract traces for each input variant in milliseconds.
 
 The implementation to reproduce the results is available in two repositories:
-* [ECCO repository](https://github.com/jku-isse/ecco/tree/develop) contains the feature location revision technique.
+* [ECCO repository](https://github.com/jku-isse/ecco/tree/develop) contains the feature revision location technique.
 * [git-ecco repository](https://github.com/GabrielaMichelon/git-ecco/tree/develop) contains the implementation for mining ground truth variants.
